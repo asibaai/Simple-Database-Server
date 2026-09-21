@@ -1,0 +1,20 @@
+John|43|123 Apple Street|514 428-3452
+Kat|  26|49 Queen Mary Road|514 234-7654
+Andrew|91|1888 Pepper Lane|
+Camilla|20||514 320-2480
+Amara | 18|21 York Street | 514 123-4567
+Maria| | 81 Walden Drive|514 898-2398
+|20|27 Rue Lake| 514 389-4389
+Nora | 21 | 38 Random Street|514 298-9280
+Shane|19|87 Namur|514 821-9955
+Manon|48|6 October|514 309-8092
+Daniel|92|  |
+Hazel|10| |514 839-3989
+|20| | 514 288-7234
+Mabel|17|283 Bell Street |514 832-1892
+Alan|13|2103 Barcelona |514 472-8923
+Sarah|12|2103 Barcelona|514 928-7398
+Sam|21|2103 Barcelona|514 938-9922
+Seville |20|238 Nashville |514 290-3748
+Aster|2|2103 Barcelona  |514 909-3983
+Amy ||817 Some Road|
